@@ -1,0 +1,31 @@
+product_id,name,category,brand,price,rating
+101,Nike Running Shoes,Footwear,Nike,4999,4.5
+102,Adidas Sneakers,Footwear,Adidas,5999,4.4
+103,Puma Sports Shoes,Footwear,Puma,4499,4.2
+104,Apple iPhone 15,Electronics,Apple,79999,4.8
+105,Samsung Galaxy S24,Electronics,Samsung,74999,4.6
+106,Boat Headphones,Electronics,Boat,1999,4.1
+107,Sony Bluetooth Speaker,Electronics,Sony,6999,4.5
+108,HP Laptop,Electronics,HP,65999,4.4
+109,Dell Laptop,Electronics,Dell,70999,4.5
+110,Lenovo Gaming Laptop,Electronics,Lenovo,89999,4.7
+111,Levis Jeans,Fashion,Levis,2499,4.3
+112,Allen Solly Shirt,Fashion,Allen Solly,1999,4.2
+113,US Polo T-Shirt,Fashion,US Polo,1499,4.1
+114,RayBan Sunglasses,Fashion,RayBan,5999,4.6
+115,Casio Watch,Accessories,Casio,3499,4.5
+116,Fossil Smartwatch,Accessories,Fossil,12999,4.4
+117,Noise Smartwatch,Accessories,Noise,2999,4.2
+118,Realme Earbuds,Electronics,Realme,2499,4.1
+119,JBL Speaker,Electronics,JBL,5499,4.4
+120,Canon Camera,Electronics,Canon,45999,4.7
+121,Wildcraft Backpack,Bags,Wildcraft,1999,4.3
+122,Skybags Travel Bag,Bags,Skybags,2999,4.2
+123,Mi Power Bank,Electronics,Mi,1499,4.4
+124,LG Smart TV,Electronics,LG,55999,4.6
+125,OnePlus Nord CE,Electronics,OnePlus,24999,4.3
+126,Campus Running Shoes,Footwear,Campus,2499,4.0
+127,Red Tape Sneakers,Footwear,Red Tape,3299,4.1
+128,Peter England Shirt,Fashion,Peter England,1799,4.0
+129,Titan Watch,Accessories,Titan,5999,4.6
+130,American Tourister Bag,Bags,American Tourister,3499,4.4

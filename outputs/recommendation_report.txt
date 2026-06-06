@@ -1,0 +1,286 @@
+============================================================
+E-COMMERCE PRODUCT RECOMMENDATION REPORT
+============================================================
+
+User ID: 10
+------------------------------------------------------------
+
+Score: 16.20
+Product ID: 122
+Name: Skybags Travel Bag
+Category: Bags
+Brand: Skybags
+Price: ₹2999.0
+Rating: 4.2
+Why Recommended: Same category, Search match, Cart similarity
+------------------------------------------------------------
+
+Score: 13.10
+Product ID: 127
+Name: Red Tape Sneakers
+Category: Footwear
+Brand: Red Tape
+Price: ₹3299.0
+Rating: 4.1
+Why Recommended: Same category, Search match
+------------------------------------------------------------
+
+Score: 12.30
+Product ID: 121
+Name: Wildcraft Backpack
+Category: Bags
+Brand: Wildcraft
+Price: ₹1999.0
+Rating: 4.3
+Why Recommended: Same category, Cart similarity
+------------------------------------------------------------
+
+Score: 9.50
+Product ID: 101
+Name: Nike Running Shoes
+Category: Footwear
+Brand: Nike
+Price: ₹4999.0
+Rating: 4.5
+Why Recommended: Same category
+------------------------------------------------------------
+
+Score: 9.20
+Product ID: 103
+Name: Puma Sports Shoes
+Category: Footwear
+Brand: Puma
+Price: ₹4499.0
+Rating: 4.2
+Why Recommended: Same category
+------------------------------------------------------------
+
+Score: 9.00
+Product ID: 126
+Name: Campus Running Shoes
+Category: Footwear
+Brand: Campus
+Price: ₹2499.0
+Rating: 4.0
+Why Recommended: Same category
+------------------------------------------------------------
+
+Score: 4.80
+Product ID: 104
+Name: Apple iPhone 15
+Category: Electronics
+Brand: Apple
+Price: ₹79999.0
+Rating: 4.8
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.70
+Product ID: 110
+Name: Lenovo Gaming Laptop
+Category: Electronics
+Brand: Lenovo
+Price: ₹89999.0
+Rating: 4.7
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.70
+Product ID: 120
+Name: Canon Camera
+Category: Electronics
+Brand: Canon
+Price: ₹45999.0
+Rating: 4.7
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.60
+Product ID: 105
+Name: Samsung Galaxy S24
+Category: Electronics
+Brand: Samsung
+Price: ₹74999.0
+Rating: 4.6
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.60
+Product ID: 114
+Name: RayBan Sunglasses
+Category: Fashion
+Brand: RayBan
+Price: ₹5999.0
+Rating: 4.6
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.60
+Product ID: 124
+Name: LG Smart TV
+Category: Electronics
+Brand: LG
+Price: ₹55999.0
+Rating: 4.6
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.60
+Product ID: 129
+Name: Titan Watch
+Category: Accessories
+Brand: Titan
+Price: ₹5999.0
+Rating: 4.6
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.50
+Product ID: 107
+Name: Sony Bluetooth Speaker
+Category: Electronics
+Brand: Sony
+Price: ₹6999.0
+Rating: 4.5
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.50
+Product ID: 109
+Name: Dell Laptop
+Category: Electronics
+Brand: Dell
+Price: ₹70999.0
+Rating: 4.5
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.50
+Product ID: 115
+Name: Casio Watch
+Category: Accessories
+Brand: Casio
+Price: ₹3499.0
+Rating: 4.5
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.40
+Product ID: 108
+Name: HP Laptop
+Category: Electronics
+Brand: HP
+Price: ₹65999.0
+Rating: 4.4
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.40
+Product ID: 116
+Name: Fossil Smartwatch
+Category: Accessories
+Brand: Fossil
+Price: ₹12999.0
+Rating: 4.4
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.40
+Product ID: 119
+Name: JBL Speaker
+Category: Electronics
+Brand: JBL
+Price: ₹5499.0
+Rating: 4.4
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.40
+Product ID: 123
+Name: Mi Power Bank
+Category: Electronics
+Brand: Mi
+Price: ₹1499.0
+Rating: 4.4
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.30
+Product ID: 111
+Name: Levis Jeans
+Category: Fashion
+Brand: Levis
+Price: ₹2499.0
+Rating: 4.3
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.30
+Product ID: 125
+Name: OnePlus Nord CE
+Category: Electronics
+Brand: OnePlus
+Price: ₹24999.0
+Rating: 4.3
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.20
+Product ID: 112
+Name: Allen Solly Shirt
+Category: Fashion
+Brand: Allen Solly
+Price: ₹1999.0
+Rating: 4.2
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.20
+Product ID: 117
+Name: Noise Smartwatch
+Category: Accessories
+Brand: Noise
+Price: ₹2999.0
+Rating: 4.2
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.10
+Product ID: 106
+Name: Boat Headphones
+Category: Electronics
+Brand: Boat
+Price: ₹1999.0
+Rating: 4.1
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.10
+Product ID: 113
+Name: US Polo T-Shirt
+Category: Fashion
+Brand: US Polo
+Price: ₹1499.0
+Rating: 4.1
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.10
+Product ID: 118
+Name: Realme Earbuds
+Category: Electronics
+Brand: Realme
+Price: ₹2499.0
+Rating: 4.1
+Why Recommended: Trending Product
+------------------------------------------------------------
+
+Score: 4.00
+Product ID: 128
+Name: Peter England Shirt
+Category: Fashion
+Brand: Peter England
+Price: ₹1799.0
+Rating: 4.0
+Why Recommended: Trending Product
+------------------------------------------------------------
